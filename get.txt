@@ -1,0 +1,5 @@
+200 OK
+regexp: Server: lighttpd\/(\S+)
+validator: my $v=capture()->[0]; [ $v ,'valid lighttpd version: '.$v];
+
+
