@@ -1,0 +1,7 @@
+{
+    "version": "0.1.0",
+    "name" : "swat-lighttpd",
+    "description": "swat test suite for lighttpd server",
+    "url" : "https://github.com/melezhik/swat-lighttpd.git"
+}
+
